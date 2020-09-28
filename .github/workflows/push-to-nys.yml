@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - nys
+      - nyc_logging
 
 jobs:
   run-tests:
